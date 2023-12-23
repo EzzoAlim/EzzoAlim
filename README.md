@@ -21,7 +21,7 @@
 <!-- Github -->
 <a 
     target="_blank" 
-    href="https://github.com/Rishabh2804">
+    href="[https://github.com/Rishabh2804](https://github.com/EzzoAlim)">
     <img
         src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
     </img>    
@@ -35,32 +35,15 @@
     </img>
 </a>
 <br>
-<!-- LinkedIn -->
-<a 
-    target="_blank"
-    href="https://www.linkedin.com/in/rishabh-gupta-2804/">
-    <img
-        src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white">
-    </img>
-</a>
+
 <!-- GMail -->
 <a 
     target="_blank" 
-    href="mailto:rishabhgupta2804@gmail.com">
+    href="ezzo.alim500@gmail.com">
     <img
-        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=black">
     </img>    
 </a>
-<!-- Twitter -->
-<a 
-    target="_blank" 
-    href="https://twitter.com/ris0_2804">
-    <img
-        src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
-    </img>
-</a>
-</p>
-
 
 
 
