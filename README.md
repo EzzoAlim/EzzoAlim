@@ -7,6 +7,44 @@
 
 
 
+# <b>Learning Platforms 📚:-</b>
+<p align="left"> 
+<!-- GeeksForGeeks -->
+ <a
+    href=https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/
+    target="_blank">
+    <img 
+        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+        alt="gfg" height="30" width="50" 
+    />
+ </a> 
+ <!-- LeetCode -->
+ <a 
+    href=https://leetcode.com/Rishabh2804/
+    target="blank">
+    <img 
+        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        alt="leetcode" height="30" width = "50"
+    />
+ </a>
+ <!-- MS-Learn -->
+ <a
+    href=https://docs.microsoft.com/en-us/users/rishabh2804/
+    target="blank">
+    <img 
+        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Microsoft learning_logo.png"
+        alt="MS-Learn" height="40" 
+        width = "100"
+    />
+ </a>  
+</p>
+
+<br>
+
+
+
+
+
 <h3 align="center">A  software developer from sudan </h3>
 <br/>
 
