@@ -1,5 +1,17 @@
 ### Hi there 👋
+<img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=salesp07" />
 
+<h1 align="center">
+         <img scr="https://readme-typing.herukapp.com/?
+           font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400&lines=Hi+there!+ 👋;+I'm+Ezzo+Alim!;" />
+</h1>
+
+
+<h3 align="center">A passionate software developer from sudan cA</h3>
+<br/>
+
+<div align="center">
+  
 <!--
 **EzzoAlim/EzzoAlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
