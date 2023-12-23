@@ -1,5 +1,7 @@
-### Hi there 👋
-<img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=salesp07" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;welcome+to+my+profile" alt="Typing SVG" /></a>
+
+
 
 <h1 align="center">
          <img scr="https://readme-typing.herukapp.com/?
@@ -11,10 +13,6 @@
 <br/>
 
 <div align="center">
-
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;welcome+to+my+profile" alt="Typing SVG" /></a>
-
   
 <!--
 **EzzoAlim/EzzoAlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
