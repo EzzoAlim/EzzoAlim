@@ -8,6 +8,7 @@
            font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400&lines=Hi+there!+ 👋;+I'm+Ezzo+Alim!;" />
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;welcome+to+my+profile)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate software developer from sudan </h3>
 <br/>
