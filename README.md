@@ -41,7 +41,7 @@
     target="_blank" 
     href="ezzo.alim500@gmail.com">
     <img
-        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=black">
+        src="https://img.EzzoAlim/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=black">
     </img>    
 </a>
 
