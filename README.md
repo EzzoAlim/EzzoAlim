@@ -7,69 +7,6 @@
 
 
 
-# <b>Learning Platforms 📚:-</b>
-<p align="left"> 
-<!-- GeeksForGeeks -->
- <a
-    href=https://auth.geeksforgeeks.org/user/rishabhgupta2804/practice/
-    target="_blank">
-    <img 
-        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-        alt="gfg" height="30" width="50" 
-    />
- </a> 
- <!-- LeetCode -->
- <a 
-    href=https://leetcode.com/Rishabh2804/
-    target="blank">
-    <img 
-        src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="leetcode" height="30" width = "50"
-    />
- </a>
- <!-- MS-Learn -->
- <a
-    href=https://docs.microsoft.com/en-us/users/rishabh2804/
-    target="blank">
-    <img 
-        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Microsoft learning_logo.png"
-        alt="MS-Learn" height="40" 
-        width = "100"
-    />
- </a>  
-</p>
-
-<br>
-
-
-
-# <b>Competitive Programming Arenas ⏱:-</b>
-<p align="left"> 
-<!-- CodeChef -->
- <a 
-    href=https://www.codechef.com/users/i_am_ris0
-    target="blank">
-    <img
-        src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
-        alt="codechef" height="30" 
-    />
- </a>
- <!-- CodeForces -->
- <a 
-    href=https://codeforces.com/profile/Rishabh2804 
-    target="blank">
-    <img 
-        src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"
-        alt="codeforces" height="30" 
-    />
- </a>
-</p>
-
-<br>
-
-
-
-
 <h3 align="center">A  software developer from sudan </h3>
 <br/>
 
