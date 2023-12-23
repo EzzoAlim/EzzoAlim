@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer from sudan </h3>
+<h3 align="center">A  software developer from sudan </h3>
 <br/>
 
 <div align="center">
