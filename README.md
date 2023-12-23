@@ -6,44 +6,11 @@
 </h1>
 
 
+
 <h3 align="center">A  software developer from sudan </h3>
 <br/>
 
 <div align="center">
-
-
-
-
-
-
-# <b>Connect with me@ :-</b>
-<p>
-<!-- Github -->
-<a 
-    target="_blank" 
-    href="[https://github.com/Rishabh2804](https://github.com/EzzoAlim)">
-    <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-    </img>    
-</a>
-<!-- StackOverFlow -->
-<a 
-    target="_blank" 
-    href="https://stackoverflow.com/users/17798976/rishabh-gupta?tab=profile">
-    <img
-        src="https://img.shields.io/badge/StackOverFlow-D16F36?style=for-the-badge&logo=stackoverflow&logoColor=white">
-    </img>
-</a>
-<br>
-
-<!-- GMail -->
-<a 
-    target="_blank" 
-    href="ezzo.alim500@gmail.com">
-    <img
-        src="https://img.EzzoAlim/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=black">
-    </img>    
-</a>
 
 
 
