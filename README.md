@@ -19,6 +19,9 @@
 <h1 align="center">HOW CAN I HELP YOU!..</h1>
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzoalim&label=Profile%20views&color=0e75b6&style=flat" alt="ezzoalim" /> </p>
+
 <h9 align="center"> <p><img align="center" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
 alt="ezzoalim" /></p>
 </h9>
