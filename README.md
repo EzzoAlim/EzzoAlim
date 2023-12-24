@@ -21,10 +21,10 @@
 
 <h9 align="center"> <p><img align="center" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
 alt="ezzoalim" /></p>
-:</h9>
+</h9>
 </p>
      <h9 align="right"> <p><img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="ezzoalim" /></p>
-:</h9>
+</h9>
 </p>
 
  <p align="left">
