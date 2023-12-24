@@ -36,7 +36,7 @@ alt="ezzoalim" /></p>
 
 - 📫 How to reach me **ezzo.alim500@gmail.com**
 
-- ⚡ Fun fact **am happy to contact u..**
+- ⚡ Fun fact **am happy to contact you..**
 
 
 
